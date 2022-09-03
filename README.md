@@ -15,6 +15,6 @@ DecisionTreeRegressor
 
 SGDRegressor
 
-# tree regression has the best score but i will go for the linear reagression same numbers almost on training and testing
+* tree regression has the best score but i will go for the linear reagression same numbers almost on training and testing
 
 ![image](https://user-images.githubusercontent.com/60258264/188280644-f89b5de3-21e4-4f54-b70c-347be012d230.png)
